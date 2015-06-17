@@ -1,5 +1,5 @@
 {
-    "name": "jhonjoya/ldap-connector",
+    "name": "jhonjoya-tray/ldap-connector",
     "description": "Easily authenticate with LDAP in Laravel",
     "homepage": "https://github.com/jhonjoya/ldap-connector",
     "keywords": ["Laravel", "Ldap"],
