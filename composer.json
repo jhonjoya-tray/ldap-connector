@@ -1,7 +1,7 @@
 {
     "name": "jhonjoya-tray/ldap-connector",
     "description": "Easily authenticate with LDAP in Laravel",
-    "homepage": "https://github.com/jhonjoya/ldap-connector",
+    "homepage": "https://github.com/jhonjoya-tray/ldap-connector",
     "keywords": ["Laravel", "Ldap"],
     "license": "MIT",
     "authors": [
